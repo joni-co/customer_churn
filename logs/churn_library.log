@@ -1,0 +1,9 @@
+root - INFO - SUCCESS: There are 10127 rows in your dataframe
+root - ERROR - ERROR: The eda did not work
+root - ERROR - ERROR: There is no figure to save
+root - ERROR - ERROR: The encoder did not work
+root - ERROR - ERROR: Could not encode categorical variables
+root - ERROR - ERROR: The feature engineering did not work
+root - ERROR - ERROR: Feature Engineering
+root - ERROR - ERROR: Feature Engineering
+root - ERROR - ERROR: The model training did not work
